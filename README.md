@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Currently working on finishing my CS degree
+- 🌱 Always improving my Vim skills
+- 📫 How to reach me:
+    - [mail](mailto:matteo.giorgi@protonmail.com)
+    - [telegram](https://t.me/drogaina)
