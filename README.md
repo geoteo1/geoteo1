@@ -1,4 +1,4 @@
-### Hi there, [Matteo](https://matteogiorgi.github.io)'s here 👋
+### Hi there, I'm [Matteo](https://matteogiorgi.github.io)
 
 <!--
 **MatteoGiorgi/MatteoGiorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
