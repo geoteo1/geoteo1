@@ -1,3 +1,4 @@
+![vim-desktop](https://github.com/MatteoGiorgi/MatteoGiorgi/blob/master/scrot.png)
 <p align="center"> <img width="100%" src="./scrot.png"/> </p>
 
 Hey there! I'm [Matteo](https://matteogiorgi.github.io) and I'm a CS student from the University of Pisa. You can get in touch
