@@ -10,5 +10,5 @@
 ### Hello there, I'm [Matteo](https://www.geoteo.net/)
 
 [<img align="left" alt="github" width="22px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
-[<img align="left" alt="protonmail" width="22px" src="https://image.flaticon.com/icons/png/512/893/893247.png" />][protonmail]
+[<img align="left" alt="protonmail" width="22px" src="https://image.flaticon.com/icons/png/512/2165/2165056.png" />][protonmail]
 [<img align="left" alt="telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
