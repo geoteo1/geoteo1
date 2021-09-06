@@ -7,7 +7,7 @@
 
 ![](assets/scrot.png)
 
-### Hello there, I'm [Matteo](https://www.geoteo.net/)
+### Hello there, I'm Matteo.
 
 [<img align="left" alt="geoteo" width="22px" src="assets/geoteo.png" />][geoteo]
 [<img align="left" alt="protonmail" width="22px" src="assets/email.png" />][protonmail]
