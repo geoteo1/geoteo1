@@ -1,3 +1,16 @@
-![vim-desktop](https://github.com/matteogiorgi/matteogiorgi/blob/master/scrot.png)
+<!-- Links list -->
+[github]: https://www.github.com/matteogiorgi
+[protonmail]: mailto:matteo.giorgi@protonmail.com
+[telegram]: https://t.me/geoteodotnet
+<!-- Links list -->
 
-Hey there! I'm [Matteo](https://matteogiorgi.github.io), you can get in touch with me via [e-mail](mailto:matteo.giorgi@protonmail.com) or [telegram](https://t.me/geoteodotnet).
+
+![](https://github.com/matteogiorgi/matteogiorgi/blob/master/scrot.png)
+
+### Hello there, I'm [Matteo](https://www.geoteo.net/)
+
+Contact me at:
+
+[<img align="left" alt="github" width="22px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
+[<img align="left" alt="protonmail" width="22px" src="https://image.flaticon.com/icons/png/512/726/726573.png" />][protonmail]
+[<img align="left" alt="telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
