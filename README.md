@@ -9,8 +9,6 @@
 
 ### Hello there, I'm [Matteo](https://www.geoteo.net/)
 
-Contact me at:
-
 [<img align="left" alt="github" width="22px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
-[<img align="left" alt="protonmail" width="22px" src="https://image.flaticon.com/icons/png/512/726/726573.png" />][protonmail]
+[<img align="left" alt="protonmail" width="22px" src="https://image.flaticon.com/icons/png/512/893/893247.png" />][protonmail]
 [<img align="left" alt="telegram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
