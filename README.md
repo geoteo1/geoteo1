@@ -7,4 +7,6 @@
 
 ![](assets/scrot.png)
 
-Hello there, I'm [Matteo][geoteo]. You can get in touch with me via [e-mail][protonmail] or [telegram][telegram].
+- Website: [geoteo.net][geoteo]
+- Email: [matteo.giorgi@protonmail.com][protonmail]
+- Telegram: [t.me/geoteodotnet][telegram]
