@@ -5,7 +5,7 @@
 <!-- Links list -->
 
 
-![](assets/scrot.png)
+<!-- ![](assets/scrot.png) -->
 
 - Website: [geoteo.net][geoteo]
 - Email: [matteo.giorgi@protonmail.com][protonmail]
