@@ -4,7 +4,9 @@
 [telegram]: https://t.me/geoteodotnet
 <!-- Links list -->
 
-<!-- ![](assets/scrot.png) -->
+<!--
+![](assets/scrot.png)
+-->
 
 
 <img align="left" width="100" src="assets/alien.gif">
@@ -13,4 +15,7 @@
 - Email: [matteo.giorgi@protonmail.com][protonmail]
 - Telegram: [t.me/geoteodotnet][telegram]
 
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteogiorgi&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
