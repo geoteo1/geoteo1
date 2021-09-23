@@ -9,7 +9,7 @@
 -->
 
 
-<img align="right" width="100" src="assets/alien.gif">
+<img align="left" width="100" src="assets/alien.gif">
 
 - Website: [geoteo.net][geoteo]
 - Email: [matteo.giorgi@protonmail.com][protonmail]
