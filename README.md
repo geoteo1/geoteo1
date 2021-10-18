@@ -8,6 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Hello+there,+I'm+Geoteo!++++++++++)](https://git.io/typing-svg)
 
-<img align="center" src="https://github.com/matteogiorgi/matteogiorgi/blob/master/assets/geoteo.svg" alt="Medium" height="20" width="20" /> [`geoteo.net`][geoteo]\
-<img align="center" src="https://github.com/matteogiorgi/matteogiorgi/blob/master/assets/email.svg" alt="Medium" height="20" width="20" /> [`matteo.giorgi@protonmail.com`][protonmail]\
-<img align="center" src="https://github.com/matteogiorgi/matteogiorgi/blob/master/assets/telegram.svg" alt="Medium" height="20" width="20" /> [`t.me/geoteodotnet`][telegram]
+<a href="https://www.geoteo.net" style="text-decoration:none;font-family:monospace;"><img align="center" src="https://github.com/matteogiorgi/matteogiorgi/blob/master/assets/geoteo.svg" alt="Medium" height="20" width="20" /> geoteo.net</a>\
+<a href="mailto:matteo.giorgi@protonmail.com" style="text-decoration:none;font-family:monospace;"><img align="center" src="https://github.com/matteogiorgi/matteogiorgi/blob/master/assets/email.svg" alt="Medium" height="20" width="20" /> matteo.giorgi@protonmail.com</a>\
+<a href="https://t.me/geoteodotnet" style="text-decoration:none;font-family:monospace;"><img align="center" src="https://github.com/matteogiorgi/matteogiorgi/blob/master/assets/telegram.svg" alt="Medium" height="20" width="20" /> t.me/geoteodotnet</a>
