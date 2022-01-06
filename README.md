@@ -5,9 +5,7 @@
 <!-- Links list -->
 
 
-## Hi there, Im Matt  :it:
-
-##### [geoteo.net](https://www.geoteo.net/) &nbsp; <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="20">
+### Hi, Im Matt  :it:
 
 
 
