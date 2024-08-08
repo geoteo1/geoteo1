@@ -17,9 +17,9 @@
 ### Hello there!
 
 ```
-  GGGG                tt                  
- GG  GG   eee   oooo  tt      eee   oooo  
-GG      ee   e oo  oo tttt  ee   e oo  oo 
-GG   GG eeeee  oo  oo tt    eeeee  oo  oo 
- GGGGGG  eeeee  oooo   tttt  eeeee  oooo  
+   ______           __           
+  / ____/__  ____  / /____  ____ 
+ / / __/ _ \/ __ \/ __/ _ \/ __ \
+/ /_/ /  __/ /_/ / /_/  __/ /_/ /
+\____/\___/\____/\__/\___/\____/ 
 ```
